@@ -62,3 +62,7 @@ dotnet run
 - Compra de seminovos direto de clientes (trade-in)
 - Testes unitários com xUnit
 - Persistência em arquivo ou banco de dados
+
+## Exemplo de saída
+
+![Saída do programa](Resultado%20do%20Projeto.png)
