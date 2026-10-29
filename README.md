@@ -65,5 +65,6 @@ dotnet run
 
 ## Exemplo de saída
 
-![Saída do programa]()<img width="1912" height="914" alt="screenshot-1793298151211" src="https://github.com/user-attachments/assets/2a52cc93-6662-4817-930b-151b2b456196" />
+![Saída do programa](<img width="1912" height="914" alt="Resultado do Projeto" src="https://github.com/user-attachments/assets/b154107f-22d3-4776-82ae-8045933a2b1b" />
+)
 
