@@ -47,7 +47,7 @@ Projeto de estudo em C# para praticar **Programação Orientada a Objetos**, sim
 
 ## Como rodar
 
-**Sem instalar nada:** cole o código em um compilador online de C#, como o [OneCompiler](https://onecompiler.com/), e clique em Run.
+**Sem instalar nada:** cole o código em um compilador online de C#, como o [OneCompiler] (https://onecompiler.com/csharp/4572v5xnf), e clique em Run.
 
 **Na sua máquina:** com o [.NET 8 SDK](https://dotnet.microsoft.com/download) instalado, use:
 
